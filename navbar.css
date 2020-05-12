@@ -1,0 +1,36 @@
+.mid{
+    display:inline-block;
+    border:none;
+     /* position: absolute;  */
+    /* left: 30%; */
+    
+    color:white;
+    display:block;
+    /* width:100%; */
+    margin:auto ;
+    background-color: rgb(165, 141, 136);
+}
+.navbar{
+    display:inline-block;
+      position: absolute;  
+     left: 25%; 
+     /* background-color: rgb(165, 141, 136); */
+     
+}
+.navbar li{
+    font-size:18px;
+    display:inline-block;
+}
+.navbar li a{
+    color:white;
+    text-decoration:none;
+    padding:30px 30px;
+    font-size: 22px;
+}
+.navbar li a:hover{
+    text-decoration:underline;
+    color:white;
+    background: none;
+    font-size: 25px;
+    border-radius: 32px;
+}
